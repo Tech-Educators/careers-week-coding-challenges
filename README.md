@@ -10,6 +10,8 @@ Check out [design-challenge](/design-challenge/) for the design and preview of t
 
 Write a function that takes an array of numbers and a target number. It should find two different items in the array that, when added together, give the target value. The indices of these items should then be returned in an array like so: [index1, index2].
 
+There is a stretch goal, once you solve it, ask Sam it will be revealed to you!
+
 There are answers for this all over the internet, don't cheat, it won't help you learn!
 
 ## Recreate a classic 🕹️
