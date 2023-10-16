@@ -25,7 +25,15 @@ Create one (or more?!) of the following:
 - Whac-a-mole
 - Stopwatch
 
-The rule here is you CAN use Google, but you CAN'T google "how to make an X". As above, there are tutorials for how to do these all over the web, do not use one.
+The rule here is you CAN use Google, but you CAN'T google "how to make an X". As above, there are tutorials for how to do these all over the web, do not use one.  
+
+## Practice so you can apply your knowledge more confidently 🏋️ 🤸   
+
+Sometimes you just need to practise something. To make up some examples of it.
+After that you need to apply it - by creating something with it. 
+Well Gimme 5 is about practice. Simple, repetitive, self-guided practice.
+
+[Gimme Five](https://docs.google.com/document/d/19CevClzu41h67Bp0b7MQYTf13RqPIi5o2ZUf4vMet14/edit?usp=sharing) 🖐️     
 
 ## Rules 📋
 
